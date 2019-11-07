@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:10:54:42 +0500] "POST /registration HTTP/1.1" 200 401 http-bio-8000-exec-2 2653
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:10:54:44 +0500] "POST /authorization HTTP/1.1" 302 - http-bio-8000-exec-3 62
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:10:55:28 +0500] "GET /?path=C:\Users\student\Desktop\test\admin HTTP/1.1" 200 759 http-bio-8000-exec-4 43844
